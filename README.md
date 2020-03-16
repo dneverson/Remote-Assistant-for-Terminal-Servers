@@ -1,2 +1,2 @@
 # Remote-Assistant-for-Terminal-Servers
-Remote Assistant for Terminal Servers - Automated (Python)
+Remote Assistant for Terminal Servers and IT tools - Python Automation
